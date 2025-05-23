@@ -1,0 +1,4 @@
+# Ignore trained model files
+trained_model/
+__pycache__/
+*.pyc
